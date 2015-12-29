@@ -1,4 +1,4 @@
-# REVV note: fix for composer.php support is on branch dev-master. See comment at
+# REVV note: This is a dependency for Stripe-Report-PHP. We're hosting our own fork to restore composer.php support. See branch dev-master. Also see comment at
 https://github.com/revvco/honeybadger-php/commit/42736a542dfe304ff9d04d8e6957104b5cb84557
 
 # honeybadger-php [![Build Status](https://secure.travis-ci.org/honeybadger-io/honeybadger-php.png)](http://travis-ci.org/honeybadger-io/honeybadger-php)
